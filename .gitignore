@@ -35,9 +35,10 @@ static/barcodes
 static/pdf
 static/profiles
 celerybeat-schedule.db
-gatecontrol/.env
+gatecontrol/.
+sqlite.db
+gunicorn.ctl
 
 ### Frontend ###
 node_modules
 logs/*.log
-sqlite.db
